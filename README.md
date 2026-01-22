@@ -1,2 +1,3 @@
 # hello-world
-practice using github i guess
+olympiad math enthusiast
+as of 1/22/2026 i am not great at coding
